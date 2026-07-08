@@ -11,7 +11,6 @@ MySQL
 HTML5
 CSS3
 JavaScript
-Bootstrap
 
 Key Features
 
